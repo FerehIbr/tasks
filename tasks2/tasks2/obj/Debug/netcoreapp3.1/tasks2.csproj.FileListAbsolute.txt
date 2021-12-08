@@ -1,0 +1,14 @@
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.exe
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.deps.json
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.runtimeconfig.json
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.runtimeconfig.dev.json
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.dll
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\bin\Debug\netcoreapp3.1\tasks2.pdb
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.csproj.AssemblyReference.cache
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.AssemblyInfoInputs.cache
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.AssemblyInfo.cs
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.csproj.CoreCompileInputs.cache
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.dll
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.pdb
+C:\Users\farahei\Desktop\tasks2\tasks2\tasks2\obj\Debug\netcoreapp3.1\tasks2.genruntimeconfig.cache
