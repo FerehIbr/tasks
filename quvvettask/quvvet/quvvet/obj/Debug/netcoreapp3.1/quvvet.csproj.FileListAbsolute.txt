@@ -1,0 +1,14 @@
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.exe
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.deps.json
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.runtimeconfig.json
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.runtimeconfig.dev.json
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.dll
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\bin\Debug\netcoreapp3.1\quvvet.pdb
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.csproj.AssemblyReference.cache
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.AssemblyInfoInputs.cache
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.AssemblyInfo.cs
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.csproj.CoreCompileInputs.cache
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.dll
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.pdb
+C:\Users\farahei\Desktop\quvvettask\quvvet\quvvet\obj\Debug\netcoreapp3.1\quvvet.genruntimeconfig.cache
