@@ -1,0 +1,14 @@
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.exe
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.deps.json
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.runtimeconfig.json
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.runtimeconfig.dev.json
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.dll
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\bin\Debug\netcoreapp3.1\taskarr.pdb
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.csproj.AssemblyReference.cache
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.AssemblyInfoInputs.cache
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.AssemblyInfo.cs
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.csproj.CoreCompileInputs.cache
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.dll
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.pdb
+C:\Users\farahei\Desktop\taskarr\taskarr\taskarr\obj\Debug\netcoreapp3.1\taskarr.genruntimeconfig.cache
